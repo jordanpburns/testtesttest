@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 # https://packaging.python.org/en/latest/specifications/declaring-project-metadata/
 [project]
 name = "jordan_test_package_repo"
-description = "Just doing a little testy ttetst[D[D"
+description = "Just doing a little testy test"
 dynamic = ["version"]
 readme = "README.md"
 authors = [

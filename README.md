@@ -5,7 +5,7 @@ jordan_test_package
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/jordan_test_package/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/jordan_test_package/branch/main)
 
 
-Just doing a little testy ttetst[D[D
+Just doing a little testy test
 
 ### Copyright
 
